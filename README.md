@@ -1,1 +1,2 @@
-# GLUCOSE CIRCADIAN RHYTHM ASSESSMENT IN PREGNANT WOMEN FOR GESTATIONAL DIABETES SCREENING
+# RESEARCH ARTICLE
+# Glucose circadian rhythm assessment in pregnant women for gestational diabetes screening
